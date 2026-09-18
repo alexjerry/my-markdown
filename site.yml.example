@@ -9,17 +9,17 @@
 # home page simply doesn't render that section — so you can start from an
 # empty profile and add blocks incrementally.
 
-name: "Your Name"
-label: "Your tagline here"                         # hero subtitle
-role: "Your role"                                  # shown under your name
-location: "Your City"                              # omit the line to hide location
-email: null                                        # set an address to surface it; null hides it
-base_url: "https://your-user.github.io/your-repo/" # canonical origin (used in SEO/schema)
+name: "Alexander Jerry"
+label: "Azure Cloud,  Azure Devops, Azure Platform Engineer, Azure Infrastructure Engineer"                        # hero subtitle
+role: "Azure Devops"                                  # shown under your name
+location: "Remote"                              # omit the line to hide location
+email: alexpriestj@yahoo.com                                        # set an address to surface it; null hides it
+base_url: "https://alexjerry.github.io/my-markdown/" # canonical origin (used in SEO/schema)
 
 links:                                             # anything you leave blank is hidden
-  github: "https://github.com/your-handle"
-  linkedin: "https://www.linkedin.com/in/your-handle/"
-  website: "https://your-site.example"
+  github: "https://github.com/alexjerry"
+  linkedin: "https://www.linkedin.com/in/alexander-jerry/"
+  
 
 resume:
   path: "/resume.pdf"                              # served from public/resume.pdf — replace with your own PDF
@@ -33,28 +33,58 @@ theme:
 # Remove or leave empty any block you don't want — the template just skips it.
 
 focus:                                             # chip row under the hero
-  - What you focus on
-  - In 2–6 one-liners
+  - AI Agents
+  - MLOps
+  - Databricks
+  - DevOps & Platform Engineering
+  - Azure & Cloud Infrastructure
+  - Infrastructure as Code
+  - AI Infrastructure
+  - Developer Tooling
+  - Observability
+  - Zero Trust & Secure Platforms
+  - Automation at Scale
 
 tech:                                              # tech badges (built from simple-icons slugs)
-  - { name: TypeScript,  slug: typescript }
-  - { name: Node,        slug: nodedotjs }
-  - { name: Python,      slug: python }
+  - { name: Azure,          slug: microsoftazure }
+  - { name: Azure DevOps,   slug: azuredevops }
+  - { name: Terraform,      slug: terraform }
+  - { name: Kubernetes,      slug: kubernetes }
+  - { name: Docker,          slug: docker }
+  - { name: Linux,           slug: linux }
+  - { name: PowerShell,      slug: powershell }
+  - { name: Bash,            slug: bash }
+  - { name: Grafana,         slug: grafana }
+  - { name: GitHub Actions,  slug: githubactions }
 
 principles:                                        # short craft beliefs
-  - One short principle per line
-  - Build simple systems first
+  - Automate repetitive work
+  - Pipeline matter
+  - Understand before optimizing
+  - Security should be built in
+  - Learn by building
+  - Ship early, improve continuously
+  
 
 time_on:                                           # {label, level: 0–10} — what you spend time on
-  - { label: "Building",     level: 10 }
-  - { label: "Writing",      level: 8  }
-
+  - { label: "Platform Engineering",  level: 10 }
+  - { label: "Cloud Infrastructure",  level: 10 }
+  - { label: "Automation",            level: 10 }
+  - { label: "Terraform",              level: 9  }
+  - { label: "AI Infrastructure",      level: 9  }
+  - { label: "Python",                 level: 9  }
+  - { label: "Kubernetes",             level: 8  }
+  - { label: "Observability",          level: 8  }
 exploring:                                         # {label, level: 0–10} — what you're exploring
-  - { label: "Something new", level: 7 }
+  - { label: "AI Agents",          level: 9 }
+  - { label: "Data engineering",      level: 9 }
+  - { label: "Local Tools",         level: 9 }
+  - { label: "IBM Mainframes", level: 9 }
+  - { label: "MLOps",             level: 8 }
 
 currently_building:                                # free-text list
-  - A couple of things you're shipping
-
+  - { label: "Azure functions",          level: 9 }
+  - { label: "Data engineering",      level: 9 }
 shaped_thinking:                                   # books / lines that shaped your approach
   - A book or line you'd recommend
 
