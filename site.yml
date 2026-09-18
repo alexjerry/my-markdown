@@ -23,7 +23,7 @@ links:                                             # anything you leave blank is
 
 resume:
   path: "/resume.pdf"                              # served from public/resume.pdf — replace with your own PDF
-  download_name: "Your-Name-Resume.pdf"
+  download_name: "Alexander-Jerry-Resume.pdf"
 
 brand: "•"                                         # nav mark (any emoji or short text)
 theme:
