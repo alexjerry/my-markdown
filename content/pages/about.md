@@ -6,8 +6,7 @@ draft: false
 
 # About
 
-I'm **Kiran Raj Rajendran** — an engineer who enjoys turning fuzzy problems into
-working software. This site is where I keep my projects, tutorials, and writing
+I'm **Alexander Jerry** — an engineer who enjoys creating Infrastructure in Azure, building CI/CD pipelines securely, faster and efficiently. This site is where I show my projects and writing
 in one place.
 
 ## What you'll find here
