@@ -5,7 +5,7 @@ tech: [Python, SSE streaming, Docker, Nebius, Tavily]
 cover: null
 date: 2026-06-27
 order: 2
-draft: false
+draft: true
 category: "AI"
 status: "Shipped"
 links:
