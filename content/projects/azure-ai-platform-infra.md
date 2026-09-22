@@ -5,7 +5,7 @@ tech: [Terraform, Azure, azuread, AzAPI, Azure API Management, Azure Container A
 cover: null
 date: 2026-07-13
 order: 4
-draft: true
+draft: false
 category: "Cloud"
 status: "Shipped"
 links: {}
